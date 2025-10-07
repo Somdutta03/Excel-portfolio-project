@@ -1,7 +1,7 @@
 # Excel-portfolio-project
 Analyzed a coffee store dataset with around 15000 rows and helped them maximize the sales with valuable insights(Maven Coffee Shop Data Analysis)
 
-##Questions:
+## Questions:
 1)	Which store location contributed to the highest revenue?
 2)	In which month the revenue generated is the maximum?
 3)	Which are the peak hours of any day?
@@ -10,7 +10,7 @@ Analyzed a coffee store dataset with around 15000 rows and helped them maximize 
 
 
 
-##Key Insights:
+## Key Insights:
 1)	Hell’s Kitchen gave the highest revenue
 2)	Revenue has gradually increased month by month, June giving the highest after a decline in Feb
 3)	Morning 8am to 10am are the peak hours with the highest sales of any day
