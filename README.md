@@ -1,5 +1,8 @@
 # Excel-portfolio-project
-Analyzed a coffee store dataset with around 15000 rows and helped them maximize the sales with valuable insights(Maven Coffee Shop Data Analysis)
+Analyzed a coffee store dataset with around 150000 rows and helped them maximize the sales with valuable insights(Maven Coffee Shop Data Analysis)
+
+<img width="1852" height="617" alt="MAVEN COFFEE SHOP DASHBOARD" src="https://github.com/user-attachments/assets/bfa8284c-97a4-4e7d-b759-c77a08a11ecc" />
+
 
 ## Questions:
 1)	Which store location contributed to the highest revenue?
